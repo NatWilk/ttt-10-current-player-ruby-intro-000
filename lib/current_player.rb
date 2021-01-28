@@ -8,6 +8,6 @@ def turn_count(board)
     if index == "X" || index == "O"
       counter += 1
     end
-    return counter
   end
+  return counter
 end
